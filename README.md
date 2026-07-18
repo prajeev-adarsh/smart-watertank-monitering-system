@@ -15,6 +15,7 @@ The Arduino processes the sensor data and determines whether the water level is 
 The project demonstrates the practical implementation of sensors, displays, relays, actuators, and embedded programming in a single automation system.
 
 ---
+#Simulation link: https://www.tinkercad.com/things/eFw002WPhdv-smart-watertank-monitoring-system?sharecode=R3O2bHofAafceAGw8azrSZfavPob8a8QVY6mEtWGeBs
 
 # ✨ Features
 
